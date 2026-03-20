@@ -1,0 +1,8 @@
+# 虚拟环境（根据您的虚拟环境名称添加）
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*/
